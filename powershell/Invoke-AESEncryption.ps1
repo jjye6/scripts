@@ -1,4 +1,6 @@
 <#
+Encryption and decryption of files.
+
 Import-Module .\Invoke-AESEncryption.ps1
 
 .EXAMPLE
